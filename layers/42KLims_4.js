@@ -1,0 +1,1 @@
+var json_42KLims_4 = {"type":"FeatureCollection","name":"42KLims_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"FID":"3"},"geometry":{"type":"Point","coordinates":[-2.090397812049514,53.300181262518429]}}]}
